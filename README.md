@@ -1,2 +1,3 @@
 # 2D-BrackeysKnight
-Use on https://www.youtube.com/watch?v=LOhfqjmasi0 as startup and experimenting with 2D in Godot Engine
+Tutorial on https://www.youtube.com/watch?v=LOhfqjmasi0 as startup.
+Initial commit will be the completed tutorial and the upfollowing commits new features.
